@@ -12,3 +12,7 @@ This repo serves two main purposes:
   - Focused on real-world integrations with third-party APIs, databases, and services.
 
 Together, these areas help you both **learn how to use the SDK** and **leverage or contribute community-built integrations**.
+
+### Find the DataForge SDK in the following locations:
+Python: https://pypi.org/project/dataforge-sdk/#description
+Scala: https://mvnrepository.com/artifact/com.dataforgelabs/dataforge-sdk
